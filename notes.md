@@ -22,4 +22,9 @@ WordPress is kept in SVN
  git add -A (everything in the repository)
  git add . (everything below the repository)
 
+ gitk - graphic interface
+
+ git checkout - like reset in SourceTree, undo local changes, goes back to last local push
+
+ git reset HEAD hello_world.html - reset staged file
  
